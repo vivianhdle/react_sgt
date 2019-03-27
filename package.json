@@ -1,5 +1,5 @@
 {
-  "name": "react_sgt", 
+  "name": "react_sgt",
   "version": "1.0.0",
   "description": "Student grade table built with ReactJS",
   "main": "index.js",
@@ -15,6 +15,7 @@
     "url": "https://github.com/vivianhdle/react_sgt.git"
   },
   "dependencies": {
+    "materialize-css": "^1.0.0",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-redux": "^5.0.7",
